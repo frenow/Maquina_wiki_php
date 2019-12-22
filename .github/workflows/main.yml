@@ -20,5 +20,5 @@ jobs:
     - name: Testes unitários
       run: composer run-script test
 
-    - name: Executar pesquia
-      run: php app search "symfony"
+    - name: Executar pesquisa
+      run: php app search "cruzeiro"
